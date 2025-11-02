@@ -26,7 +26,7 @@ st.markdown("""
         padding-bottom: 2rem;
     }
     .stApp {
-        background-color: #B2BEB5;
+        background-color: #2e2d2d;
     }
     .stAlert {
         border-radius: 0.5rem;
@@ -367,3 +367,4 @@ elif menu_selection == "📥 Export Report":
     else:
 
         st.info("Please upload a dataset and perform analysis to generate reports.")
+
